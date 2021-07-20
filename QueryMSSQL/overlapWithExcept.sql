@@ -24,4 +24,4 @@ SELECT X.*
           WHERE A.키1 = B.키1
             AND 날짜 = '20190902'
        )
-[출처] [MSSql] 데이터 중복을 피해서 INSERT하기 (NOT EXIST)|작성자 NOZ
+--[출처] [MSSql] 데이터 중복을 피해서 INSERT하기 (NOT EXIST)|작성자 NOZ
